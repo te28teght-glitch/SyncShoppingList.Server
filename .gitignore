@@ -1,0 +1,32 @@
+# Папки сборки
+bin/
+obj/
+
+# Файлы пользователя
+*.user
+*.suo
+*.userprefs
+*.lock.json
+
+# База данных (если не хочешь хранить тестовые данные)
+*.db
+*.db3
+*.sqlite
+
+# Файлы VS Code
+.vs/
+.vscode/
+
+# Файлы Rider / Visual Studio
+.idea/
+*.csproj.user
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Публикация
+publish/
