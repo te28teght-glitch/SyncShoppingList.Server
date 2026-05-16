@@ -1,6 +1,6 @@
 using SQLite;
 
-namespace ShoppingList.Server.Models
+namespace SyncShoppingList.Server.Models
 {
     [Table("Groups")]
     public class Group
